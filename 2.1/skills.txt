@@ -4,4 +4,8 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 
+trybe-skills-updates
 -  JAVASCRIPT
+-  HTML
+-  CSS
+ master
