@@ -1,12 +1,11 @@
+
 .header {
-  background-color: orange;
   border: 2px solid black;
   text-align: center;
   padding: 50px;
 }
 
 .navegation {
-  background-color: yellow;
   border:2px solid black;
   text-align: center;
   margin-top: 40px;
@@ -22,7 +21,7 @@
 }
 
 .artigos {
-  background-color: aquamarine;
+  
   border: 2px solid black;
   
 }
@@ -46,6 +45,7 @@
 .general-info img {
   width: 400px;
   float: right;
+  position: static;
   margin-top: 150px;
   margin-right: 70px;
 }
@@ -53,9 +53,20 @@
 .caracteristicas {
   border: 2px solid black;
   margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .caracteristicas p {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.secao-final {
+  border: 2px solid black;
+  margin-top: 40px;
+}
+
+.secao-final p {
   font-size: 20px;
   padding: 20px;
 }
