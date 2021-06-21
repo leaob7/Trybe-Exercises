@@ -1,0 +1,25 @@
+.header {
+  background-color: orange;
+  border: 2px solid black;
+  text-align: center;
+  padding: 50px;
+}
+
+.navegation {
+  background-color: yellow;
+  border:2px solid black;
+  text-align: center;
+  margin-top: 40px;
+  padding: 50px;
+  
+}
+
+.navegation a {
+  font-size: 25px;
+  padding: 100px;
+  
+}
+
+.artigos {
+  background-color: aquamarine;
+}
