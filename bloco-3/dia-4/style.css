@@ -11,6 +11,7 @@
   text-align: center;
   margin-top: 40px;
   padding: 50px;
+  margin-bottom: 40px;
   
 }
 
@@ -22,4 +23,22 @@
 
 .artigos {
   background-color: aquamarine;
+  border: 2px solid black;
+  
+}
+
+.artigos h3 {
+  font-size: 25px;
+  text-align: center;
+}
+
+
+.general-info {
+  border: 2px solid black;
+  margin-top: 40px;
+}
+
+.general-info li {
+  font-size: 20px;
+  padding: 20px;
 }
