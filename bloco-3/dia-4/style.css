@@ -42,3 +42,20 @@
   font-size: 20px;
   padding: 20px;
 }
+
+.general-info img {
+  width: 400px;
+  float: right;
+  margin-top: 150px;
+  margin-right: 70px;
+}
+
+.caracteristicas {
+  border: 2px solid black;
+  margin-top: 40px;
+}
+
+.caracteristicas p {
+  font-size: 20px;
+  padding: 20px;
+}
