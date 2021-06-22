@@ -23,7 +23,14 @@
 .artigos {
   
   border: 2px solid black;
+  width: 70%;
   
+}
+
+.aside {
+  border: 2px solid black;
+  width: 27%;
+  float: right;
 }
 
 .artigos h3 {
@@ -48,6 +55,7 @@
   position: static;
   margin-top: 150px;
   margin-right: 70px;
+  max-width: fit-content;
 }
 
 .caracteristicas {
@@ -64,9 +72,16 @@
 .secao-final {
   border: 2px solid black;
   margin-top: 40px;
+  height: 400px;
 }
 
 .secao-final p {
   font-size: 20px;
   padding: 20px;
+}
+
+.secao-final img {
+  width: 400px;
+  float: right;
+  max-width: fit-content;
 }
